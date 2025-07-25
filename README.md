@@ -93,5 +93,4 @@ This project is licensed for academic use.
 
 ## ✍️ Author
 
-Created by [Your Name]  
-IEEE Publication Link: [10.1109/ISACC65211.2025.10969360](https://doi.org/10.1109/ISACC65211.2025.10969360)
+more knowledge massage me 
